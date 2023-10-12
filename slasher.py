@@ -10,7 +10,6 @@ import random
 #Putting my variables and shit at the top
 ansY = ["y", "Y"]
 ansN = ["n", "N"]
-viable_input = ["1", "2", "3"]
 slasher = [0, 1, 2, 3, 4]
 
 print("Slasher!")
@@ -28,7 +27,6 @@ def startofchoices():
     print("2.) Go straight?")
     print("3.) Go right?")
     choice1 = input(">>")
-   # slasherhere = random.choice(slasher)
     
     if choice1 == "1":
         dooronleft1()
