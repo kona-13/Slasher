@@ -7,7 +7,7 @@ The slasher will appear randomly - I used random.choice() to get this based on p
 
 This is a pretty small and simple project - and my implementation may not be the best (I am still learning).
 
-I made this to expand on a what I have learnt from some of my other projects like my rock paper scissors game.
+I made this to expand on what I have learnt from some of my other projects like my rock paper scissors game.
 
 Its just a small little Halloween inspired thing - as we are now in spooky month 🎃🎃🎃
 
